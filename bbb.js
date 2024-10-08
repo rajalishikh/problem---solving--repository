@@ -18,7 +18,8 @@ console.log(foodName.slice(5,))
 let friendsName='Arif, raj, jihat, rasel, nibir, ornove, siam, baten, refat'
 console.log(friendsName.split(' ',))
 
-// practice 3 
+// practice 3
+// reverse a string using for of loop 
  let profession = 'I am a junior web developer'
  let reverseSentence=' '
 
