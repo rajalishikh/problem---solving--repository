@@ -5,6 +5,7 @@ let myPhone={
     PhoneRam:'4gb',
     phoneRom:'64gb',
     color:'black',
+    PhonePerformance:"Good "
 
 }
 
