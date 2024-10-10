@@ -8,3 +8,5 @@ for (let i =0;i<girl.length;i++){
     reverse=sentence + reverse
 }
 console.log("Answer:",reverse);
+
+let reverse2=girl.rev
