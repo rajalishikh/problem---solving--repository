@@ -6,10 +6,7 @@ let final_statement_reverse=' '
 
 for(let i=statement_reverse.length -1;i>=0;i--){
     final_statement_reverse= final_statement_reverse+" "+ statement_reverse[i] 
-   
     
-
-   
 }
 console.log(final_statement_reverse)
 
