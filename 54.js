@@ -7,7 +7,7 @@ function addition_Even_Array(num){
             sum= sum +a;
 
         }
-    }
+    } 
     return sum
 
 }
