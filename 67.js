@@ -1,3 +1,4 @@
+// write a function that give me the odd number average in a array 
 function find_average_odd_number(num_array){
    
     let new_array=[];
