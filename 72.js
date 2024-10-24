@@ -16,5 +16,5 @@ function count(vowels){
     return counter.length
     
 }
- let total_variable_vowel= count('I am a junior web developer')
+ let total_variable_vowel= count('a e i o u')
  console.log(total_variable_vowel)
