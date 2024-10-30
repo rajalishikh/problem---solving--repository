@@ -12,5 +12,5 @@ function calculateMoney(ticketSale){
 
     }
 }
-let finalOutput=calculateMoney(-10)
+let finalOutput=calculateMoney(-1)
 console.log(finalOutput)
