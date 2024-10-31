@@ -15,5 +15,5 @@ function checkName(name){
     return "Bad name "
    }
 }
-let finalInput=checkName(["Rashed"] )
+let finalInput=checkName(122 )
 console.log(finalInput)
