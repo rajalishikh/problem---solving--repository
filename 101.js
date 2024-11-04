@@ -19,18 +19,12 @@ function monthlySavings(arr, livingCost){
            let after_vat_remaining_money=arr[x]-total_sum_remaining_money_after_vat;
            total_money_remaining=after_vat_remaining_money
     
-           
-    
-      
         }
         else if(arr[x]<3000){
             total_sum_less_then_3000=total_sum_less_then_3000+arr[x]
             
         }
-        
-        
-        
-       
+     
         
        }
        let sum=total_money_remaining+total_sum_less_then_3000;
@@ -42,11 +36,6 @@ function monthlySavings(arr, livingCost){
         return 'earn more '
        }
    }
-
-
-
- 
- 
 
 }
 let output=monthlySavings( 100, [ 900 , 2700 , 3400]  )
